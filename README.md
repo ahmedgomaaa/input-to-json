@@ -10,6 +10,7 @@ Literally download the C++ source code, load/paste it into a C++ compiler or ide
 ## Usage
 
 Have your inputs in a file named "1.txt" in the same directory. After running the code, you should expect the output within the same directory inside a "output.txt" file.
+works only with UNICODE/ASCII english tho, currently.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
